@@ -1,0 +1,5 @@
+v0.01
+-Made simple enemy will change later
+-Grid based terrain added
+-Enemy asks for path between given start and end points and moves between them
+-Path calculated using breath first search
