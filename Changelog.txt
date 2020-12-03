@@ -1,0 +1,19 @@
+v0.01
+-Made simple enemy will change later
+-Grid based terrain added
+-Enemy asks for path between given start and end points and moves between them
+-Path calculated using breath first search
+v0.02
+-Added enemy health system
+-Added towers
+-Imported new assets for enemy , towers and grid system
+-Towers can fire and target nearest enemy
+-Enemy Spawn system added
+
+v0.03
+-Player health system added
+-Tower spawning added,limit 5
+-Enemy model changed
+-Enemy spawn and movement speed changed
+-Game keeps track of the spawned enemys
+-Hit, death and explosion particles added.
